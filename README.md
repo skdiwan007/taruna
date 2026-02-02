@@ -80,8 +80,8 @@ button {
   </style>
 </head>
 <body> <div class="card" id="card">
-    <h1>Hey ❤️</h1>
-    <p id="question">Will you be mine forever?</p><div id="buttons">
+    <h1>Hey Taruna ❤️</h1>
+    <p id="question"> Can we start again?</p><div id="buttons">
   <button class="yes" onclick="yesClick()">Yes 😍</button>
   <button class="no" onclick="noClick()">No 🙈</button>
 </div>
